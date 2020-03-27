@@ -1,3 +1,4 @@
 ceci est un essaie 
 ceci est une modification via github
 ceci est une modification en etant dans la brancheExo3
+Modif test conflit via github
