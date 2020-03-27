@@ -2,4 +2,5 @@ ceci est un essaie
 ceci est une modification via github
 ceci est une modification en etant dans la brancheExo3
 ceci est ajout de texte pour tester les conflis
+ceci est une modification en etant dans le compte numero 2
 
